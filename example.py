@@ -1,3 +1,4 @@
+import os
 import json
 import requests
 from bs4 import BeautifulSoup
@@ -6,7 +7,6 @@ import sys
 from time import sleep
 from time import gmtime, strftime
 import matplotlib.pyplot as plt
-import seaborn as sns
 
 enddate = strftime("%Y%m%d", gmtime())
 r  = requests.get("https://coinmarketcap.com/currencies/ethereum/historical-data/?start=20140101&end={0}".format(enddate))
@@ -40,7 +40,6 @@ plt.title('ethereum price from 2014')
 plt.ylabel('Price in USD')
 plt.xlabel('Years from 2014')
 plt.bar(x, prices)
-plt.show()
 
 os.system("rm -rf chart.png")
 time.sleep(1)

@@ -1,4 +1,4 @@
-# ethereum price chart  
+# ethereum price chart 
 
 ethereum price chart (matplotlib, python)
 
