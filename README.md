@@ -1,6 +1,6 @@
-# binance-coin price chart 
+# bitcoin-sv price chart 
 
-binance-coin price chart (matplotlib, python)
+bitcoin-sv price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
