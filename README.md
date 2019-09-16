@@ -1,6 +1,6 @@
-# bitcoin-sv price chart 
+# monero price chart 
 
-bitcoin-sv price chart (matplotlib, python)
+monero price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
