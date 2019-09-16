@@ -1,6 +1,6 @@
-# tron price chart 
+# dash price chart 
 
-tron price chart (matplotlib, python)
+dash price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
