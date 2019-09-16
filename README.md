@@ -1,6 +1,6 @@
-# huobi-token price chart 
+# tron price chart 
 
-huobi-token price chart (matplotlib, python)
+tron price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
