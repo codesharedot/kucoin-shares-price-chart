@@ -1,6 +1,6 @@
-# ethereum-classic price chart 
+# tezos price chart 
 
-ethereum-classic price chart (matplotlib, python)
+tezos price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
