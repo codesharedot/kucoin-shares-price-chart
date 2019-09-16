@@ -1,6 +1,6 @@
-# ripple price chart 
+# eos price chart 
 
-ripple price chart (matplotlib, python)
+eos price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
