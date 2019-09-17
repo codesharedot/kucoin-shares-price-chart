@@ -1,6 +1,6 @@
-# crypto-com-coin price chart 
+# ontology price chart 
 
-crypto-com-coin price chart (matplotlib, python)
+ontology price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
