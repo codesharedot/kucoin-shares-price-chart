@@ -1,6 +1,6 @@
-# ontology price chart 
+# nem price chart 
 
-ontology price chart (matplotlib, python)
+nem price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
