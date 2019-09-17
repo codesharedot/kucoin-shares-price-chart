@@ -1,6 +1,6 @@
-# bitcoin price chart 
+# ethereum price chart 
 
-bitcoin price chart (matplotlib, python)
+ethereum price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
