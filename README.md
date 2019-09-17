@@ -1,6 +1,6 @@
-# litecoin price chart 
+# tether price chart 
 
-litecoin price chart (matplotlib, python)
+tether price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
