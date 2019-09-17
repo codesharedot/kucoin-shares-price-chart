@@ -1,6 +1,6 @@
-# nano price chart 
+# bittorrent price chart 
 
-nano price chart (matplotlib, python)
+bittorrent price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
