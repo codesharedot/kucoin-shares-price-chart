@@ -10,7 +10,7 @@ from time import gmtime, strftime
 import matplotlib.pyplot as plt
 
 enddate = strftime("%Y%m%d", gmtime())
-r  = requests.get("https://coinmarketcap.com/currencies/insight-chain/historical-data/?start=20140101&end={0}".format(enddate))
+r  = requests.get("https://coinmarketcap.com/currencies/bitcoin/historical-data/?start=20140101&end={0}".format(enddate))
 data = r.text
 
 soup = BeautifulSoup(data, "html.parser")
@@ -33,11 +33,18 @@ for row in table.find_all('tr'):
 
 # flip list, months are in reverse order
 prices = prices[::-1]
+for i in range(0,len(prices)):
+    prices[i] = float(prices[i])
+
+#for price in prices:
+#    price = float(price)
 print(prices)
+x = list(range(0, len(prices)))
+print(x)
 
 x = list(range(0, len(prices)))
 
-plt.title('insight-chain price from 2014')
+plt.title('bitcoin price from 2014')
 plt.ylabel('Price in USD')
 plt.xlabel('Years from 2014')
 plt.bar(x, prices)
