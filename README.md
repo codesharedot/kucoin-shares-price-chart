@@ -1,6 +1,6 @@
-# qtum price chart 
+# bitcoin-gold price chart 
 
-qtum price chart (matplotlib, python)
+bitcoin-gold price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
