@@ -1,6 +1,6 @@
-# tether price chart 
+# eos price chart 
 
-tether price chart (matplotlib, python)
+eos price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
