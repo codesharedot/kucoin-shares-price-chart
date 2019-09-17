@@ -1,6 +1,6 @@
-# bitcoin-gold price chart 
+# zb price chart 
 
-bitcoin-gold price chart (matplotlib, python)
+zb price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
