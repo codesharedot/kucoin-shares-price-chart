@@ -1,6 +1,6 @@
-# zb price chart 
+# omisego price chart 
 
-zb price chart (matplotlib, python)
+omisego price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
