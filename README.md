@@ -1,6 +1,6 @@
-# monero price chart 
+# stellar price chart 
 
-monero price chart (matplotlib, python)
+stellar price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
