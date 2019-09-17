@@ -1,6 +1,6 @@
-# iota price chart 
+# neo price chart 
 
-iota price chart (matplotlib, python)
+neo price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
