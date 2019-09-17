@@ -1,6 +1,6 @@
-# trueusd price chart 
+# qtum price chart 
 
-trueusd price chart (matplotlib, python)
+qtum price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
