@@ -1,6 +1,6 @@
-# stellar price chart 
+# unus-sed-leo price chart 
 
-stellar price chart (matplotlib, python)
+unus-sed-leo price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
