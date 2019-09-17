@@ -1,6 +1,6 @@
-# neo price chart 
+# chainlink price chart 
 
-neo price chart (matplotlib, python)
+chainlink price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
