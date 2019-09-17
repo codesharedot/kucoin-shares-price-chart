@@ -1,6 +1,6 @@
-# zcash price chart 
+# dogecoin price chart 
 
-zcash price chart (matplotlib, python)
+dogecoin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
