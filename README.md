@@ -1,6 +1,6 @@
-# tezos price chart 
+# iota price chart 
 
-tezos price chart (matplotlib, python)
+iota price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
