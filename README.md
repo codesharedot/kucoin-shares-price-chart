@@ -1,6 +1,6 @@
-# dash price chart 
+# ethereum-classic price chart 
 
-dash price chart (matplotlib, python)
+ethereum-classic price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
