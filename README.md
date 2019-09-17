@@ -1,6 +1,6 @@
-# nem price chart 
+# zcash price chart 
 
-nem price chart (matplotlib, python)
+zcash price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
