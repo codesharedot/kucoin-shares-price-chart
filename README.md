@@ -1,6 +1,6 @@
-# bittorrent price chart 
+# augur price chart 
 
-bittorrent price chart (matplotlib, python)
+augur price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
