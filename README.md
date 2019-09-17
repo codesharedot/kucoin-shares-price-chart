@@ -1,6 +1,6 @@
-# omisego price chart 
+# kucoin-shares price chart 
 
-omisego price chart (matplotlib, python)
+kucoin-shares price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
