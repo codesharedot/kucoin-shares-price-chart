@@ -1,6 +1,6 @@
-# hedgetrade price chart 
+# v-systems price chart 
 
-hedgetrade price chart (matplotlib, python)
+v-systems price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
