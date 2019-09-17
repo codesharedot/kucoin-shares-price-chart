@@ -1,6 +1,6 @@
-# cosmos price chart 
+# maker price chart 
 
-cosmos price chart (matplotlib, python)
+maker price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
