@@ -1,6 +1,6 @@
-# chainlink price chart 
+# cosmos price chart 
 
-chainlink price chart (matplotlib, python)
+cosmos price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
