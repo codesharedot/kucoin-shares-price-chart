@@ -1,6 +1,6 @@
-# v-systems price chart 
+# paxos-standard-token price chart 
 
-v-systems price chart (matplotlib, python)
+paxos-standard-token price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
