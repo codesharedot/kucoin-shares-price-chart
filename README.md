@@ -1,6 +1,6 @@
-# unus-sed-leo price chart 
+# huobi-token price chart 
 
-unus-sed-leo price chart (matplotlib, python)
+huobi-token price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
