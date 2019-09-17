@@ -1,6 +1,6 @@
-# paxos-standard-token price chart 
+# basic-attention-token price chart 
 
-paxos-standard-token price chart (matplotlib, python)
+basic-attention-token price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
