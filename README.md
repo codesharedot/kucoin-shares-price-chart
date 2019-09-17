@@ -1,6 +1,6 @@
-# augur price chart 
+# insight-chain price chart 
 
-augur price chart (matplotlib, python)
+insight-chain price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
