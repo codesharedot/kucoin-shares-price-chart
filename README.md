@@ -1,6 +1,6 @@
-# basic-attention-token price chart 
+# decred price chart 
 
-basic-attention-token price chart (matplotlib, python)
+decred price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
