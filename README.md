@@ -1,6 +1,6 @@
-# ripple price chart 
+# litecoin price chart 
 
-ripple price chart (matplotlib, python)
+litecoin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
