@@ -1,6 +1,6 @@
-# ravencoin price chart 
+# nano price chart 
 
-ravencoin price chart (matplotlib, python)
+nano price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
