@@ -1,6 +1,6 @@
-# maker price chart 
+# usd-coin price chart 
 
-maker price chart (matplotlib, python)
+usd-coin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
