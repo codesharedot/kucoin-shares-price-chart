@@ -1,6 +1,6 @@
-# vechain price chart 
+# trueusd price chart 
 
-vechain price chart (matplotlib, python)
+trueusd price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
