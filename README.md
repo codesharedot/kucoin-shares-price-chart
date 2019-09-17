@@ -1,6 +1,6 @@
-# ethereum price chart 
+# ripple price chart 
 
-ethereum price chart (matplotlib, python)
+ripple price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
