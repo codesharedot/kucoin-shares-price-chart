@@ -1,6 +1,6 @@
-# qtum price chart 
+# zb price chart 
 
-qtum price chart (matplotlib, python)
+zb price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
