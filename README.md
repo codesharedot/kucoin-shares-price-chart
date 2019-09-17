@@ -1,6 +1,6 @@
-# kucoin-shares price chart 
+# ravencoin price chart 
 
-kucoin-shares price chart (matplotlib, python)
+ravencoin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
