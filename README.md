@@ -1,6 +1,6 @@
-# usd-coin price chart 
+# crypto-com-coin price chart 
 
-usd-coin price chart (matplotlib, python)
+crypto-com-coin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 

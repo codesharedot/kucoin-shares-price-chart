@@ -10,7 +10,7 @@ from time import gmtime, strftime
 import matplotlib.pyplot as plt
 
 enddate = strftime("%Y%m%d", gmtime())
-r  = requests.get("https://coinmarketcap.com/currencies/usd-coin/historical-data/?start=20140101&end={0}".format(enddate))
+r  = requests.get("https://coinmarketcap.com/currencies/crypto-com-coin/historical-data/?start=20140101&end={0}".format(enddate))
 data = r.text
 
 soup = BeautifulSoup(data, "html.parser")
@@ -37,7 +37,7 @@ print(prices)
 
 x = list(range(0, len(prices)))
 
-plt.title('usd-coin price from 2014')
+plt.title('crypto-com-coin price from 2014')
 plt.ylabel('Price in USD')
 plt.xlabel('Years from 2014')
 plt.bar(x, prices)
