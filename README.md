@@ -1,6 +1,6 @@
-# decred price chart 
+# vechain price chart 
 
-decred price chart (matplotlib, python)
+vechain price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
