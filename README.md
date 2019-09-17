@@ -1,6 +1,6 @@
-# dogecoin price chart 
+# hedgetrade price chart 
 
-dogecoin price chart (matplotlib, python)
+hedgetrade price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
