@@ -1,6 +1,6 @@
-# eos price chart 
+# binance-coin price chart 
 
-eos price chart (matplotlib, python)
+binance-coin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
